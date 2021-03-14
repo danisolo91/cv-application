@@ -55,7 +55,10 @@ class Experience extends React.Component {
                                     </div>
                                     <div className="col-3 text-secondary text-end">
                                         <i 
-                                            onClick={() => this.loadJob(job)}
+                                            onClick={() => {
+                                                this.clearJob();
+                                                this.loadJob(job)
+                                            }}
                                             className="bi bi-pencil-square"
                                             data-bs-toggle="modal" 
                                             data-bs-target="#experienceModal"
