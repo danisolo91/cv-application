@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,EACI,qBACJ,CAEA,YACI,cACJ,CAEA,gBACI,cACJ","file":"main.b545d128.chunk.css","sourcesContent":["* {\n    box-sizing: border-box;\n}\n\n.text-small {\n    font-size: 0.8em;\n}\n\n.min-width-60px {\n    min-width: 66px;\n}"]}

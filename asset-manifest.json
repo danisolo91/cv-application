@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/cv-application/static/css/main.b545d128.chunk.css",
+    "main.js": "/cv-application/static/js/main.2e5a690f.chunk.js",
+    "main.js.map": "/cv-application/static/js/main.2e5a690f.chunk.js.map",
+    "runtime-main.js": "/cv-application/static/js/runtime-main.1937f864.js",
+    "runtime-main.js.map": "/cv-application/static/js/runtime-main.1937f864.js.map",
+    "static/css/2.e0ac00ec.chunk.css": "/cv-application/static/css/2.e0ac00ec.chunk.css",
+    "static/js/2.556fb0b8.chunk.js": "/cv-application/static/js/2.556fb0b8.chunk.js",
+    "static/js/2.556fb0b8.chunk.js.map": "/cv-application/static/js/2.556fb0b8.chunk.js.map",
+    "index.html": "/cv-application/index.html",
+    "static/css/2.e0ac00ec.chunk.css.map": "/cv-application/static/css/2.e0ac00ec.chunk.css.map",
+    "static/css/main.b545d128.chunk.css.map": "/cv-application/static/css/main.b545d128.chunk.css.map",
+    "static/js/2.556fb0b8.chunk.js.LICENSE.txt": "/cv-application/static/js/2.556fb0b8.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/cv-application/static/media/bootstrap-icons.cc252f2c.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1937f864.js",
+    "static/css/2.e0ac00ec.chunk.css",
+    "static/js/2.556fb0b8.chunk.js",
+    "static/css/main.b545d128.chunk.css",
+    "static/js/main.2e5a690f.chunk.js"
+  ]
+}
